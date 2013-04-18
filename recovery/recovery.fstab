@@ -1,0 +1,13 @@
+# mount point	fstype		device			[device2]
+
+/boot		bml		boot
+/recovery	bml		recovery
+/cache		ext4		/dev/block/stl14
+/data		ext4		/dev/block/stl13
+/system		ext4		/dev/block/stl12
+<<<<<<< HEAD
+/sdcard		vfat		/dev/block/mmcblk0p1    /dev/block/mmcblk0	
+=======
+/sdcard		vfat		/dev/block/mmcblk0p1     /dev/block/mmcblk0	
+>>>>>>> a84ecca95462af6a97b4646f8761126407278de8
+/sd-ext		ext4		/dev/block/mmcblk0p2

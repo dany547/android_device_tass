@@ -1,0 +1,5 @@
+#!/bin/bash
+
+. build/envsetup.sh
+lunch full_tass-eng
+make recoveryimage

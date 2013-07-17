@@ -94,3 +94,4 @@ TW_ALWAYS_RMRF := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_BRIGHTNESS_PATH := "/sys/devices/platform/msm_fb.196609/leds/lcd-backlight/brightness"
 TW_MAX_BRIGHTNESS := 255
+
